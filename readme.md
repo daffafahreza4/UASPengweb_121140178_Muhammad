@@ -18,7 +18,7 @@ Proyek ini adalah aplikasi web sederhana yang bertujuan untuk menambahkan data s
 
 - Saya menerapkan DOM pada file `index.php`, dan `tambah.php` dengan kegunaan memberikan day mode dan night mode pada tampilan lalu saya juga membuat untuk melakukan validasi input sebelum diproses oleh PHP
 
-- Saya juga mebuat 2 element input yang jumlahnya 8 pada file `index.php`
+- Saya juga mebuat 2 element input yang jumlahnya 7 pada file `index.php`
 
 
 ## Bagian 2: Server-side Programming (Bobot: 30%)
